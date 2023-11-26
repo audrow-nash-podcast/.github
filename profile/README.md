@@ -6,7 +6,7 @@ Here you'll find:
 
 * [Episode transcripts](https://github.com/audrow-nash-podcast/transcripts)
 * [Tools that I've built to make publishing easier](https://github.com/audrow-nash-podcast/text-tools)
-* [Episode meta data](https://github.com/audrow-nash-podcast/episodes)
+* [Metadata for the podcast and episodes](https://github.com/audrow-nash-podcast/metadata)
 
 Everything has an MIT license. Feel free to use anything or help add features or fix bugs.
 
